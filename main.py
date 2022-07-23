@@ -7,3 +7,5 @@ for shop, items in shoppings.items():
 
 print(shoppings)
 print("Hej tutaj nowy programista")
+print("pierwsze")
+print("drugie")
