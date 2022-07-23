@@ -6,4 +6,4 @@ for shop, items in shoppings.items():
     print(f"ide do {shop} i kupuje tam {items}")
 
 print(shoppings)
-
+print("Hej tutaj nowy programista")
